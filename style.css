@@ -5,8 +5,8 @@
 }
 
 p {
-  padding: 30px;
   margin: 30px;
+  margin: 0px 600px 0px 0px;
 }
 html {
   scroll-behavior: smooth;
@@ -62,11 +62,11 @@ nav a:hover {
 }
 
 .image-mage {
-  background-image: url(https://images.uesp.net/thumb/d/d8/SR-menu-Skills_Menu.jpg/800px-SR-menu-Skills_Menu.jpg);
+  background-image: url(https://images8.alphacoders.com/418/418876.jpg);
 }
 
 .image-skilling {
-  background-image: url(https://r4.wallpaperflare.com/wallpaper/893/563/755/atlantis-nebula-4k-8k-wallpaper-1de2f41a3787e70be7b26740bf2d2b52.jpg?timestamp=1736515162288);
+  background-image: url(https://i.redd.it/m5fcobbr4gj71.png);
 }
 
 .skills {
@@ -116,4 +116,32 @@ footer {
   text-align: center;
   color: #555;
   padding: 40px;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background-color: #3b5998;
+  color: white;
+}
+
+.fa-twitter {
+  background-color: #55acee;
+  color: white;
+}
+
+audio {
+  width: 500px;
+  height: 1px;
 }
